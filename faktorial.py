@@ -10,7 +10,6 @@ def faktorial_cyklus(n):
 
 
 def faktorial_rekurzia(n):
-    """Rekurzívna verzia"""
     skontroluj(n)
     if n <= 1:
         return 1
